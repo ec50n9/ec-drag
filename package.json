@@ -1,6 +1,10 @@
 {
   "name": "@ec50n9/ec-drag",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ec50n9/ec-drag"
+  },
   "description": "一个快速实现拖拽布局的逻辑封装",
   "main": "index.js",
   "author": "ec50n9",
